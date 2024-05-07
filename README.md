@@ -1,6 +1,5 @@
 # intelligent-cancer-diagnose  
-The original dataset: [Uploading Assignment3-Breast-Cancer-Diagnose.csv…]()
-
+The original dataset is attached as Assignment3-Breast-Cancer-Diagnose.csv  
 
 ## Task Description
 According to features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass, choose appropriate classifier to diagnose whether breast tissues are malignant or benign.  
