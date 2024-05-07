@@ -7,4 +7,7 @@ According to features computed from a digitized image of a fine needle aspirate 
 1. Split your datasets into train/val/test or train/test.
 2. Implement at least 3 types of classifiers to make the binary classification.
 3. Give the process about how you choose the hyperparameters for each classifier.
-4. Compare the performance of difference classifiers.
+4. Compare the performance of difference classifiers.  
+
+## Solution
+The solution is shown in Report.ipynb
